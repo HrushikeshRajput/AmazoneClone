@@ -1,2 +1,2 @@
 # AmazoneClone
-This a webpage of Amazone Website cloning using HTML and CSS
+This a single home webpage of Amazone Website cloning using HTML and CSS.
